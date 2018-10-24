@@ -1,1 +1,1 @@
-web: gunicorn fbBot.wsgi
+web: gunicorn app:app
